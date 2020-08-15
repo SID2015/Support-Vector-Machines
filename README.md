@@ -12,5 +12,8 @@ In the first part, we will try using different values of the C parameter with SV
 similar to 1/λ , where λ is the regularization parameter 
 
 
+![alt text](https://github.com/SID2015/Support-Vector-Machines/blob/master/imgs/Screenshot%20from%202020-08-15%2016-14-34.png)
+
+
 
 
