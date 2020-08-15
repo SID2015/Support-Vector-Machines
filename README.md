@@ -12,7 +12,61 @@ In the first part, we will try using different values of the C parameter with SV
 similar to 1/λ , where λ is the regularization parameter 
 
 
+
+![alt_text](https://github.com/SID2015/Support-Vector-Machines/blob/master/imgs/Screenshot%20from%202020-08-15%2016-14-52.png)
+
+
 ![alt text](https://github.com/SID2015/Support-Vector-Machines/blob/master/imgs/Screenshot%20from%202020-08-15%2016-14-34.png)
+
+
+![alt_text](https://github.com/SID2015/Support-Vector-Machines/blob/master/imgs/Screenshot%20from%202020-08-15%2016-14-46.png)
+
+
+![alt_text](https://github.com/SID2015/Support-Vector-Machines/blob/master/imgs/Screenshot%20from%202020-08-15%2016-15-20.png)
+
+
+![alt_text](https://github.com/SID2015/Support-Vector-Machines/blob/master/imgs/Screenshot%20from%202020-08-15%2016-16-12.png)
+
+
+![alt_text](https://github.com/SID2015/Support-Vector-Machines/blob/master/imgs/Screenshot%20from%202020-08-15%2016-16-37.png)
+
+
+![alt_text](https://github.com/SID2015/Support-Vector-Machines/blob/master/imgs/Screenshot%20from%202020-08-15%2016-16-43.png)
+
+
+![alt_text](https://github.com/SID2015/Support-Vector-Machines/blob/master/imgs/Screenshot%20from%202020-08-15%2016-17-39.png)
+
+
+![alt_text](https://github.com/SID2015/Support-Vector-Machines/blob/master/imgs/Screenshot%20from%202020-08-15%2016-17-43.png)
+
+
+![alt_text](https://github.com/SID2015/Support-Vector-Machines/blob/master/imgs/Screenshot%20from%202020-08-15%2016-17-57.png)
+
+
+![alt_text](https://github.com/SID2015/Support-Vector-Machines/blob/master/imgs/Screenshot%20from%202020-08-15%2016-19-13.png)
+
+
+![alt_text](https://github.com/SID2015/Support-Vector-Machines/blob/master/imgs/Screenshot%20from%202020-08-15%2016-19-37.png)
+
+
+![alt_text](https://github.com/SID2015/Support-Vector-Machines/blob/master/imgs/Screenshot%20from%202020-08-15%2016-21-13.png)
+
+
+![alt_text](https://github.com/SID2015/Support-Vector-Machines/blob/master/imgs/Screenshot%20from%202020-08-15%2016-21-24.png)
+
+
+![alt_text](https://github.com/SID2015/Support-Vector-Machines/blob/master/imgs/Screenshot%20from%202020-08-15%2016-21-30.png)
+
+
+
+
+
+
+
+
+
+
+
 
 
 
